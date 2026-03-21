@@ -1,7 +1,7 @@
-## ✈️ Jet Turbine AR: Interactive Assembly
+## Jet Turbine AR: Interactive Assembly
 A mobile Augmented Reality (AR) application developed in Unity that allows users to visualize and interact with a high-fidelity jet engine model in a real-world environment.
 
-## 🚀 Core Features
+##  Core Features
 AR Visualization: Anchors a 3D turbine model to physical surfaces using AR Foundation.
 
 Interactive Inspection: Select and identify key components: ``Tubes``, ``Hull``, ``Pistons``, and ``Grid``.
@@ -10,7 +10,7 @@ Assembly Simulation: A dedicated ``Assemble`` function to demonstrate spatial pa
 
 Mobile Optimized UI: Clean, high-contrast touch interface for field-use simulation.
 
-## 📸 System Preview
+##  System Preview
 **1. Development Environment**
 Built using the XR Origin and AR Session framework to handle world-tracking and camera positioning.
 
@@ -21,7 +21,7 @@ The user interface allows for specific part isolation and a full-system assembly
 
 ![Mobile UI](ProjectSettings/mobview.png)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Engine:** Unity 2022.3 (LTS)
 
 **AR Framework:** AR Foundation (ARCore / ARKit)

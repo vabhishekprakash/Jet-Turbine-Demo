@@ -4,7 +4,7 @@ A mobile Augmented Reality (AR) application developed in Unity that allows users
 ##  Core Features
 AR Visualization: Anchors a 3D turbine model to physical surfaces using AR Foundation.
 
-Interactive Inspection: Select and identify key components: ``Tubes``, ``Hull``, ``Pistons``, and ``Grid``
+Interactive Inspection: Select and identify key components: ``Tubes``, ``Hull``, ``Pistons``, and ``Grid``.
 
 Assembly Simulation: A dedicated ``Assemble`` function to demonstrate spatial part-to-whole relationships.
 
